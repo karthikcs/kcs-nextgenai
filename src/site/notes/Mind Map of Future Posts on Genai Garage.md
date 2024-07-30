@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mind-map-of-future-posts-on-genai-garage/","updated":"2024-07-30T21:28:18.146+05:30"}
+{"dg-publish":true,"permalink":"/mind-map-of-future-posts-on-genai-garage/","updated":"2024-07-30T21:28:46.198+05:30"}
 ---
 
 

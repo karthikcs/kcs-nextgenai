@@ -14,4 +14,4 @@ Artificial intelligence has come a long way since its inception, moving from sim
 
 In conclusion, as we embark on this journey with NextGen AI, we invite you to explore the transformative world of artificial intelligence with us. This blog will serve as your guide to understanding the technical advancements and implementation techniques that are shaping the future of AI. Welcome to NextGen space of innovators and enthusiasts eager to delve into the exciting possibilities that AI brings.
 
-You can expect ideas on the future posts -> [[Mind Map of Future Posts\|Mind Map of Future Posts]]
+You can expect ideas on the future posts -> [[Mind Map of Future Posts on NextGen AI\|Mind Map of Future Posts on NextGen AI]]

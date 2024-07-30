@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mind-map-of-future-posts-on-genai-garage/"}
+{"dg-publish":true,"permalink":"/mind-map-of-future-posts-on-genai-garage/","updated":"2024-07-30T21:24:44.503+05:30"}
 ---
 
 # Mind Map of Future Posts on Genai Garage

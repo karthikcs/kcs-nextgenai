@@ -12,7 +12,6 @@
 This is page 2
 
 ---
-[Home](obsidian://open?vault=NextGenAI&file=index)
-
+[[index\|index]]
 
 

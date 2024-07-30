@@ -12,9 +12,8 @@
 This is page 2
 
 ---
-[[index\|index]]
+[[index\|Home]]
 
-[Home](/)
 
 
 

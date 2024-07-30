@@ -14,4 +14,7 @@ This is page 2
 ---
 [[index\|index]]
 
+[Home](index.md)
+
+
 

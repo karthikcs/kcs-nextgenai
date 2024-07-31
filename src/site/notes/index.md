@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"updated":"2024-07-30T21:25:10.969+05:30"}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"updated":"2024-07-30T21:24:42.101+05:30"}
 ---
 
 # Welcome to NextGen AI: 
